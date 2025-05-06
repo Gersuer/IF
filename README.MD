@@ -1,10 +1,3 @@
-## Ambiente
-
-- Fedora 41
-- Python 3
-- 16GB RAM
-- Ryzen 7730u
-
 ## Instalação
 
 ```
