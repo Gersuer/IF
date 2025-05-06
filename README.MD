@@ -1,9 +1,3 @@
-## Ambiente
-
-- Fedora 41
-- Python 3
-- 32GB RAM
-- Intel I5 Generation 10
 
 
 ## Instalação
@@ -64,3 +58,9 @@ if __name__ == "__main__":
     texto = "Ollama é incrível para gerar embeddings locais!"
     embedding_generator(string)
 ```
+## Ambiente
+
+ Fedora 41
+ Python 3
+ 32GB RAM
+ Intel I5 Generation 10
