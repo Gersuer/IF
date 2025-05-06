@@ -1,3 +1,11 @@
+## Ambiente
+
+- Fedora 41
+- Python 3
+- 32GB RAM
+- Intel I5 Generation 10
+
+
 ## Instalação
 
 ```
